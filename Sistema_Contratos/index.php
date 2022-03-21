@@ -15,7 +15,7 @@
     <?php require 'partials/header.php' ?>   
 
     <h1>Ingrese sus datos</h1>
-
+    <!-- Hola -->
     <form action="sesion.php" method="post">
        <input type="text" name="email" placeholder="Ingresa tu Email">
        <input type="password" name="password" placeholder="Ingesa tu contraseña"> 
